@@ -1,0 +1,44 @@
+#ifndef MAIN_H
+#define MAIN_H
+
+#include <QPushButton>
+#include <QGroupBox>
+#include <QGridLayout>
+#include <QApplication>
+#include <QWidget>
+#include <QPushButton>
+#include <QLabel>
+#include <QLineEdit>
+#include <QTextEdit>
+#include <QCheckBox>
+#include <QRadioButton>
+#include <QComboBox>
+#include <QSpinBox>
+#include <QDoubleSpinBox>
+#include <QListWidget>
+#include <QTableWidget>
+#include <QTreeWidget>
+#include <QMenu>
+#include <QMenuBar>
+#include <QToolBar>
+#include <QStatusBar>
+#include <QMessageBox>
+#include <QFileDialog>
+#include <QHBoxLayout>
+#include <QVBoxLayout>
+#include <QGridLayout>
+#include <QFormLayout>
+#include <QSpacerItem>
+#include <QSplitter>
+#include <QStackedWidget>
+#include <QTabWidget>
+#include <QScrollArea>
+#include <QFrame>
+#include <QGroupBox>
+#include <QDialog>
+#include <QMainWindow>
+#include <QStack>
+#include <QStringList>
+#include <QDebug>
+
+#endif // MAIN_H
